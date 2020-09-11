@@ -3,7 +3,7 @@
 # This script created a new user on local system.
 # You will be prompted to enter the username (login), the person name, and a password.
 # The username, password and hostname for the account will be displayed.
-
+# Pull testing from github to servers local repo.
 # Make sure the script is being executed with superuser privilages.
 if [[ "${UID}" -ne 0 ]]
 then
